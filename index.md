@@ -9,3 +9,5 @@ overlay_image: /assets/images/drugdictionary.jpg
 ---
 
 {% include posts_row %}
+
+Select a page above to view the multimedia project!
