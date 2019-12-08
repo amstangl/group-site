@@ -25,7 +25,7 @@ search_full_content: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-repository: amstangl/group-site
+repository: amstangl/ic-site
 
 # Outputting
 permalink: /:categories/:title/
