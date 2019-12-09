@@ -1,10 +1,8 @@
 ---
 published: true
-title: "Addiction Treatment Programs and How Family and Friends Can Help"
-excerpt: 'Understanding different treatment options and how family and friends can help someone with addiction.'
-Contributor: 
-  - name: Adrianna Johnson 
-  bio: University of Minnesota Morris, Freshman, Pre-Physical Therapy Major
+title: Untitled
+site_contributors:
+  - Adrianna Johnson
 ---
 Understanding different treatment options and how family and friends can help someone with addiction.
 
@@ -52,4 +50,4 @@ Everyone deserves love and the ability to fully enjoy the life they are meant to
 
 [^4]: Hari, J. (n.d.). Everything you think you know about addiction is wrong. Retrieved November 20, 2019, from https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong 
 
-[^5]: Category:Human sadness. (n.d.). Retrieved November 20, 2019, from https://commons.wikimedia.org/wiki/Category:Human_sadness 
+[^5]: Category:Human sadness. (n.d.). Retrieved November 20, 2019, from https://commons.wikimedia.org/wiki/Category:Human_sadness
