@@ -30,10 +30,14 @@ The American government and task force have been acting against the War on Drugs
 
 ## References
 
-[^1]: Bagley, Bruce Michael, & Rosen, Jonathan D. \(2015\). *Drug Trafficking, Organized Crime, and Violence in the Americas Today*. Gainesville: University Press of Florida.
-[^2]: Drugs Inc. \(2010, July 11\). *Cocaine* \[Video file\]. Retrieved from www.youtube.com/
-watch?v=4Qpm_A8_hf8.
+[^1]: Bagley, Bruce Michael, & Rosen, Jonathan D. \(2015\). *Drug Trafficking, Organized Crime,and Violence in the Americas Today*. Gainesville: University Press of Florida.
+
+[^2]: Drugs Inc. \(2010, July 11\). *Cocaine* \[Video file\]. Retrieved from www.youtube.com/watch?v=4Qpm_A8_hf8.
+
 [^3] Drugs Inc. \(2013, November\). *Cartel City, Arizona* \[Video file\]. Retrieved from www.youtube.com/watch?v=h3OZPu1u-RA&has_verified=1. 
+
 [^4]: Reuter, P., & National Research Council. Committee on Law Justice, \(2010\). *Understanding the Demand for Illegal Drugs*.
-[^5]: Nadelmann, E. \(2014, November 12\). *Why We Need to End the War on Drugs* \[Video file\]. Retrieved from www.youtube.com/watch?v=uWfLwKH_Eko.
+
+[^5]: Nadelmann, E. \(2014, November 12\). *Why We Need to End the War on Drugs* \[Video file\].Retrieved from www.youtube.com/watch?v=uWfLwKH_Eko.
+
 [^6]: Felbab-Brown, V. \(2013\). A State-building Approach to the Drug Trade Problem. *UN Chronicle*, 50\(2\), 15\-19.
