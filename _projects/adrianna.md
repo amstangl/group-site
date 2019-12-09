@@ -48,4 +48,4 @@ Everyone deserves love and the ability to fully enjoy the life they are meant to
 
 [^4]: Hari, J. (n.d.). Everything you think you know about addiction is wrong. Retrieved November 20, 2019, from https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong 
 
-Category:Human sadness. (n.d.). Retrieved November 20, 2019, from https://commons.wikimedia.org/wiki/Category:Human_sadness 
+[^5]: Category:Human sadness. (n.d.). Retrieved November 20, 2019, from https://commons.wikimedia.org/wiki/Category:Human_sadness 
