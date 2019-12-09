@@ -1,6 +1,14 @@
 ---
 published: true
-title: Addiction Treatment Programs and How Family and Friends Can Help
+title: "Addiction Treatment Programs and How Family and Friends Can Help"
+excerpt: 
+overlay_image: 
+teaser: 
+contributors:
+  - name: Adrianna Johnson
+    bio: 
+    image: /assets/images/tinder.jpg
+  
 ---
 Understanding different treatment options and how family and friends can help someone with addiction.
 
