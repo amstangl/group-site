@@ -34,7 +34,7 @@ The American government and task force have been acting against the War on Drugs
 
 [^2]: Drugs Inc. \(2010, July 11\). *Cocaine* \[Video file\]. Retrieved from www.youtube.com/watch?v=4Qpm_A8_hf8.
 
-[^3] Drugs Inc. \(2013, November\). *Cartel City, Arizona* \[Video file\]. Retrieved from www.youtube.com/watch?v=h3OZPu1u-RA&has_verified=1. 
+[^3]: Drugs Inc. \(2013, November\). *Cartel City, Arizona* \[Video file\]. Retrieved from www.youtube.com/watch?v=h3OZPu1u-RA&has_verified=1. 
 
 [^4]: Reuter, P., & National Research Council. Committee on Law Justice, \(2010\). *Understanding the Demand for Illegal Drugs*.
 
