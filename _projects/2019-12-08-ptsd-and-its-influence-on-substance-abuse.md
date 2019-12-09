@@ -91,7 +91,9 @@ order for that to happen, people must be educated on PTSD and the possible negat
 can have on someone. So, if you or a loved one is suffering from PTSD and substance abuse 
 know that you are not alone! There are thousands of people that are struggling with the same 
 thing, and there are many places to find help.
+
 ![Image of the precursors for PTSD and how others can help](https://www.michaelshouse.com/wp-content/uploads/2016/04/trauma-in-students.png)
+
 ## Where Can People With PTSD Find Treatment?
 There are many types of ways people can get treatment for PTSD. According to the Mayo Clinic, 
 there are many types of psychotherapy options that are available. Psychotherapy is also 
@@ -116,12 +118,14 @@ medications include:
 2.   **“Anti-anxiety medications:** These drugs can relieve severe anxiety and related problems. Some anti-anxiety medications have the potential for abuse, so they are generally used only for a short time.”[^8]
 
 
+
 ## References
+
 [^1]:  Juergens, Jeffrey. “Post-Traumatic Stress Disorder and Addiction - Addiction Center.” AddictionCenter, 17 Sept. 2019, www.addictioncenter.com/addiction/post-traumatic-stress-disorder/.
 
 [^2]: The National Institute of Mental Health. “Post-Traumatic Stress Disorder.” National Institute of Mental Health, U.S. Department of Health and Human Services, May 2019, www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml.
 
-[^3]: Mayo Clinic Staff. “Post-Traumatic Stress Disorder (PTSD).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 6 July 2018, www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967.
+[^3]: Mayo Clinic Staff. “Post-Traumatic Stress Disorder \(PTSD\).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 6 July 2018, www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967.
 
 [^4]: Parekh, Ranna. “What Is Posttraumatic Stress Disorder?” What Is PTSD?, Jan. 2017, www.psychiatry.org/patients-families/ptsd/what-is-ptsd.
 
@@ -132,7 +136,7 @@ medications include:
 [^7]: Volpicelli, Joseph, et al. “The Role of Uncontrollable Trauma in the Development of PTSD and Alcohol Addiction.” 
 National Institute on Alcohol Abuse and Alcoholism, vol. 23, no. 4, 1999, pubs.niaaa.nih.gov/publications/arh23-4/256-262.pdf.
 
-[^8]: Mayo Clinic Staff. “Post-Traumatic Stress Disorder (PTSD).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 6 July 2018, www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973.
+[^8]: Mayo Clinic Staff. “Post-Traumatic Stress Disorder \(PTSD\).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 6 July 2018, www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973.
 
 
 
