@@ -119,30 +119,20 @@ are present in order to prevent any drug addictions from developing.
 [^1]: Center on Addiction. \(2017, April 14\). Who develops addiction. Retrieved November 2,
 2019, from https://www.centeronaddiction.org/addiction/addiction-risk-factors.
 
-[^2]: Difference between abuse and addiction. \(n.d.\). Retrieved October 28, 2019, from
-https://www.dualdiagnosis.org/drug-addiction/abuse-and-addiction/.
+[^2]: Difference between abuse and addiction. \(n.d.\). Retrieved October 28, 2019, from https://www.dualdiagnosis.org/drug-addiction/abuse-and-addiction/.
 
 [^3]: Drug, alcohol addiction: What are the factors that play a role?. \(2019, May 20\).
-Retrieved October 29, 2019, from
-https://emeraldcoastjourneypure.com/drug-alcohol-addiction-factors/.
+Retrieved October 29, 2019, from https://emeraldcoastjourneypure.com/drug-alcohol-addiction-factors/.
 
-[^4] Forum, A. P. \(n.d.\). Prevention. Retrieved November 19, 2019, from
-https://www.addictionpolicy.org/prevention.
+[^4] Forum, A. P. \(n.d.\). Prevention. Retrieved November 19, 2019, from https://www.addictionpolicy.org/prevention.
 
-[^5] Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved
-November 2, 2019, from
+[^5] Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved November 2, 2019, from
 https://www.health.harvard.edu/newsletter_article/how-addiction-hijacks-the-brain.
 
-[^6]: NIDA. \(2003, October 1\). Preventing drug use among children and adolescents (In brief).
-Retrieved October 30, 2019, from
-https://www.drugabuse.gov/publications/preventing-drug-abuse-among-children-adolescents/chapter-1-risk-factors-protective-factors/what-are-risk-factors.
+[^6]: NIDA. \(2003, October 1\). Preventing drug use among children and adolescents (In brief). Retrieved October 30, 2019, from https://www.drugabuse.gov/publications/preventing-drug-abuse-among-children-adolescents/chapter-1-risk-factors-protective-factors/what-are-risk-factors.
 
-[^7]: Saisan, J., Smith, M., Robinson, L., & Segal, J. \(2019, October 9\). Substance abuse and
-mental health issues. Retrieved October 28, 2019, from
-https://www.helpguide.org/articles/addictions/substance-abuse-and-mental-health.htm.
+[^7]: Saisan, J., Smith, M., Robinson, L., & Segal, J. \(2019, October 9\). Substance abuse and mental health issues. Retrieved October 28, 2019, from https://www.helpguide.org/articles/addictions/substance-abuse-and-mental-health.htm.
 
-[^8]: SummitBHC. \(2015, September 20\). Progression of addiction. Retrieved November 1,
-2019, from https://summitbhc.com/progression-of-addiction/.
+[^8]: SummitBHC. \(2015, September 20\). Progression of addiction. Retrieved November 1, 2019, from https://summitbhc.com/progression-of-addiction/.
 
-[^9]: Zimić, J. I., & Jukić, V. \(2012\). Familial risk factors favoring drug addiction onset.
-Journal of Psychoactive Drugs, 44\(2\), 173\-185. doi: 10.1080/02791072.2012.68540.
+[^9]: Zimić, J. I., & Jukić, V. \(2012\). Familial risk factors favoring drug addiction onset. Journal of Psychoactive Drugs, 44\(2\), 173\-185. doi: 10.1080/02791072.2012.68540.
