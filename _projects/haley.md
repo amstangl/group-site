@@ -38,18 +38,19 @@ From research, it has been shown that non-prescription drugs and mental illnesse
 
 
 Works Cited 
-[^1]: Gómez-Coronado, Nieves, et al. “A Review of the Neurobiological Underpinning of 
-Comorbid Substance Use and Mood Disorders.” *Journal of Affective Disorders*, Elsevier 11 Aug. 2018, \(www.sciencedirect.com/science/article/pii/S0165032718308929).
-[^2]: Center for Behavioral Health Statistics. \(2017). Key Substance Use and Mental Health Indicators in the United States: Results from the 2016 National Survey on Drug Use and Health. Retrieved 2019, from \(https:/www.samsha.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.htm).
-[^3]: Peselow, Ross, et al. “Comorbidity: Substance Use Disorders and Other Mental Illnesses.” *NIDA*, 2018, \(www.drugabuse.gov/publications/drugfacts/comorbidity-substance-use-disorders-other-mental-illnesses).
-[^4]: Santucci K. Psychiatric disease and drug abuse. Curr Opin Pediatr. 2012;24(2):233-237.
-doi: 10.1097/MOP.0b013e3283504fbf
-[^5]: Biederman, and James. “National Institute on Drug Abuse.” *National Institute on Drug Abuse*, U.S. Department of Health and Human Serviced, 2010, \(www.drugabuse.gov/sites/default/files/rrcomorbidity.pdf).
-[^6]: “Dual Diagnosis.” *The Arbor Behavioral Healthcare Dual Diagnosis Comments*, 2019, 
-thearbor.com/dual-diagnosis-disorder/.
+[^1]: Gómez-Coronado, Nieves, et al. “A Review of the Neurobiological Underpinning of Comorbid Substance Use and Mood Disorders.” *Journal of Affective Disorders*, Elsevier 11 Aug. 2018, \(www.sciencedirect.com/science/article/pii/S0165032718308929).
 
-[^7]: Substance Abuse and Mental Health Services Administration. \(2012). *Results from the 
-2010 National Survey on Drug Use and Health: Mental Health Findings*, NSDUH Series H-42, HHS Publication No. \(SMA) 11-4667. Rockville, MD: Substance Abuse and Mental Health Services Administration. Retrieved from: \(http://archive.samhsa.gov/data/NSDUH/2k10MH_Findings/2k10MHResults.htm#Ch4).
+[^2]: Center for Behavioral Health Statistics. \(2017). Key Substance Use and Mental Health Indicators in the United States: Results from the 2016 National Survey on Drug Use and Health. Retrieved 2019, from \(https:/www.samsha.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.htm).
+
+[^3]: Peselow, Ross, et al. “Comorbidity: Substance Use Disorders and Other Mental Illnesses.” *NIDA*, 2018, \(www.drugabuse.gov/publications/drugfacts/comorbidity-substance-use-disorders-other-mental-illnesses).
+
+[^4]: Santucci K. Psychiatric disease and drug abuse. Curr Opin Pediatr. 2012;24(2):233-237. doi: 10.1097/MOP.0b013e3283504fbf
+
+[^5]: Biederman, and James. “National Institute on Drug Abuse.” *National Institute on Drug Abuse*, U.S. Department of Health and Human Serviced, 2010, \(www.drugabuse.gov/sites/default/files/rrcomorbidity.pdf).
+
+[^6]: “Dual Diagnosis.” *The Arbor Behavioral Healthcare Dual Diagnosis Comments*, 2019, thearbor.com/dual-diagnosis-disorder/.
+
+[^7]: Substance Abuse and Mental Health Services Administration. \(2012). *Results from the 2010 National Survey on Drug Use and Health: Mental Health Findings*, NSDUH Series H-42, HHS Publication No. \(SMA) 11-4667. Rockville, MD: Substance Abuse and Mental Health Services Administration. Retrieved from: \(http://archive.samhsa.gov/data/NSDUH/2k10MH_Findings/2k10MHResults.htm#Ch4).
 
 
 
