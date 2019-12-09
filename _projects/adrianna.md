@@ -6,8 +6,8 @@ overlay_image:
 teaser: 
 contributors:
   - name: Adrianna Johnson
-    bio: 
-    image: /assets/images/tinder.jpg
+    bio: University of Minnesota Morris, Freshman, PrePhysical Therapy Major
+    image: /assets/images/profile.png
   
 ---
 Understanding different treatment options and how family and friends can help someone with addiction.
