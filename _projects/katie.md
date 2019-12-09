@@ -39,6 +39,9 @@ It is important we talk about these heavy issues, most importantly to stop bipol
 
 ### Works Cited
 NIDA. "Drugs, Brains, and Behavior: The Science of Addiction." National Institute on Drug Abuse, 20 Jul. 2018, https://www.drugabuse.gov/publications/drugs-brains-behavior-science-addiction. Accessed 6 Dec. 2019.
+
 Staff, Edited by Editorial. “The Most Effective Treatment for Severe Bipolar Disorder & Addiction.” American Addiction Centers, 5 Sept. 2019, americanaddictioncenters.org/bipolar-and-addiction 
+
 “Bipolar Disorder.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 31 Jan. 2018, www.mayoclinic.org/diseases-conditions/bipolar-disorder/diagnosis-treatment/drc-20355961.
+
 “DSM-5 Criteria: Bipolar Disorder.” Medicaid Mental Health, 2017, www.medicaidmentalhealth.org/_assets/file/Guidelines/2017-2018%20Treatment%20of%20Adult%20Bipolar%20Disorder.pdf.
