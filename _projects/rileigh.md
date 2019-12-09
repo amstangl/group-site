@@ -2,7 +2,6 @@
 published: true
 title: Protective Factors of Addiction
 ---
-
 ## Can anyone become addicted to drugs?
 Most professionals believe that the answer is yes [^1]. There are some drugs that are so addictive
 that excessive or daily use can cause addiction in just about anyone. Despite popular belief, most
