@@ -2,7 +2,6 @@
 published: true
 title: 'The Illegal Drug Trade into America: The War on Drugs'
 ---
-
 Information, statistics, and an inside look at the illegal drug trade and the War on Drugs in the United States. What drugs, where the drugs are grown, transported and distributed, the inner jobs of the drug trade, and what the government is doing to work against the illegal drug trade.
 
 # The Illegal Drug Trade into America: The War on Drugs
@@ -38,5 +37,3 @@ watch?v=4Qpm_A8_hf8.
 [^4]: Reuter, P., & National Research Council. Committee on Law Justice, \(2010\). *Understanding the Demand for Illegal Drugs*.
 [^5]: Nadelmann, E. \(2014, November 12\). *Why We Need to End the War on Drugs* \[Video file\]. Retrieved from www.youtube.com/watch?v=uWfLwKH_Eko.
 [^6]: Felbab-Brown, V. \(2013\). A State-building Approach to the Drug Trade Problem. *UN Chronicle*, 50\(2\), 15\-19.
-
-
