@@ -3,6 +3,9 @@ published: true
 title: Untitled
 site_contributors:
   - Adrianna Johnson
+excerpt: >-
+  Understanding different treatment options and how family and friends can help
+  someone with addiction
 ---
 Understanding different treatment options and how family and friends can help someone with addiction.
 
