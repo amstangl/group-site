@@ -1,11 +1,6 @@
 ---
 published: true
-title: "Addiction Treatment Programs and How Family and Friends Can Help"
-excerpt: 'Understanding different treatment options and how family and friends can help someone with addiction'
-site_contributors:
-  - name: Adrianna Johnson
-  bio: Univeristy of Minnesota Morris, Freshman, Pre-Physical Therapy Major
-  
+title: Addiction Treatment Programs and How Family and Friends Can Help
 ---
 Understanding different treatment options and how family and friends can help someone with addiction.
 
