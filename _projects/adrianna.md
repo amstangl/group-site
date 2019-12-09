@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Addiction Treatment Programs and How Family and Friends Can Help"
-excerpt: 
+excerpt: 'Understanding different treatment options and how family and friends can help someone with addiction.'
 overlay_image: 
 teaser: 
 contributors:
@@ -10,7 +10,7 @@ contributors:
     image: /assets/images/profile.png
   
 ---
-Understanding different treatment options and how family and friends can help someone with addiction.
+
 
 ## Drug Addiction
 Drug addiction is a topic many people can relate to, whether on a personal level, or knowing someone who has been affected by it. People begin using drugs for a variety of different reasons, but many find they have become dependent on various substances and find that their lives have forever changed. Even if someone wants to quit using, it is not that simple. Drug addiction takes ahold of a person’s life and changes it forever. However, help and resources are out there offering out a helping hand to whoever may need it, it’s just a matter of knowing where to start looking.
