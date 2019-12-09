@@ -2,23 +2,17 @@
 published: true
 title: Protective Factors of Addiction
 ---
-Title: ”Protective Factors of Addiction”
-Contributors:
-- Name: Rileigh Wilson
-##Can anyone become addicted to drugs?
+
+## Can anyone become addicted to drugs?
 Most professionals believe that the answer is yes [^1]. There are some drugs that are so addictive
 that excessive or daily use can cause addiction in just about anyone. Despite popular belief, most
-do not become addicted to a drug after trying it a single time, it typically takes multiple uses to
-create that craving.
-##How does substance abuse begin?
-Substance abuse typically occurs in those that associate with other drug users. Their
-susceptibility depends on the risk factors and protective factors in their environment. Those with
+do not become addicted to a drug after trying it a single time, it typically takes multiple uses to create that craving.
+## How does substance abuse begin?
+Substance abuse typically occurs in those that associate with other drug users. Their susceptibility depends on the risk factors and protective factors in their environment. Those with
 high levels of risk factors and low levels of protective factors often begin abusing drugs during
-adolescence. The environment is the greatest factor in the initiation of drug addiction. When
-drugs are widely available and normalized in an environment, they are much more likely to be
-abused. An individual's gender, race, and geographic location also play a role. If more protective
+adolescence. The environment is the greatest factor in the initiation of drug addiction. When drugs are widely available and normalized in an environment, they are much more likely to be abused. An individual's gender, race, and geographic location also play a role. If more protective
 factors are introduced in an individual’s life, addiction is much less likely.
-##When does substance abuse progress into full-blown addiction?
+## When does substance abuse progress into full-blown addiction?
 Many may ask, what is the difference between drug abuse and drug addiction? Both terms are
 used interchangeably by many. Although both certainly have adverse effects on one’s life, they
 are not the same. Someone is likely abusing drugs if they still have control over their life and
@@ -33,20 +27,19 @@ susceptibility to addiction, those with a greater amount of risk factors and few
 factors are much more likely to develop an addiction through drug abuse [^6]. As the use of the
 substance shifts from a choice to a necessity, due to extended use or the addictive nature of the
 drug, it becomes an addiction.
- ##What are factors of addiction?
+## What are factors of addiction?
 There are both risk and protective factors of addiction. Risk factors are components that can
 increase a person’s chance of drug addiction or abuse, whereas protective factors are components
 that reduce an individual’s chance of drug addiction or abuse. Risk factors typically fall into
 different categories; for example, genetic predisposition, environmental influences,
 psychological factors, or the five different domains. Age is also critical, the younger an
 individual uses drugs, the more likely it is that they will develop an addiction at some point in
-their life. Although the risk factors of addiction are crucial, we are going to discuss the protective
-factors that correlate with the different risk factors.
-##How do risk factors and protective factors correlate?
+their life. Although the risk factors of addiction are crucial, we are going to discuss the protective factors that correlate with the different risk factors.
+## How do risk factors and protective factors correlate?
 Basically, risk factors and protective factors are opposites. Risk factors put one at greater risk of
 addiction and protective factors reduce that risk. By incorporating more protective factors into
 life, the effects of risk factors are lessened and the risk of addiction can be lowered.
-##What are the protective factors of addiction?
+## What are the protective factors of addiction?
 Prevention is key when it comes to drug addiction. Protective factors are simply actions or
 circumstances that further prevent future drug addiction, especially for those that are already at
 risk. These factors fall under the same five domains that risk factors fall under: individual,
@@ -79,31 +72,20 @@ individual tend to have greater self-confidence and often engage in more meaning
 that even further reduce the risk of drug addiction.
 ### Family
  There are numerous protective factors that originate in the family as well. A strong bond
-between children and their parents significantly decreases the risk of drug addiction. It is crucial
-for parents to take advantage of the protective factors that are possible within a family. Parents
-must be involved in their child’s life in order to enforce clear limits and consistently discipline
-their children[^6]. Another important role of parents is the prevention of trauma, childhood
-trauma dramatically increases the risk of drug addiction. Sheltering children from harmful
-experiences like sexual or verbal abuse is crucial as far as protective factors go. And as expected,
-it is much easier for a parent to monitor their child’s behavior and watch for the warning signs of
-substance abuse when they have a strong bond and a trusting relationship.
+between children and their parents significantly decreases the risk of drug addiction. It is crucial for parents to take advantage of the protective factors that are possible within a family. Parents must be involved in their child’s life in order to enforce clear limits and consistently discipline their children[^6]. Another important role of parents is the prevention of trauma, childhood trauma dramatically increases the risk of drug addiction. Sheltering children from harmful experiences like sexual or verbal abuse is crucial as far as protective factors go. And as expected,it is much easier for a parent to monitor their child’s behavior and watch for the warning signs of substance abuse when they have a strong bond and a trusting relationship.
+
 ![The effect of childhood sexual abuse on drug dependency and psychiatric disorders in adult
 women.](https://commons.wikimedia.org/wiki/File:NIH_child_sex_abuse_disorders_graph.gif#/
 media/File:NIH_child_sex_abuse_disorders_graph.gif “Childhood sexual abuse with drug
 dependence and psychiatric disorders”)
-###Peer
+
+### Peer
 Social involvement outside of the family can also have an effect on an individual's risk of drug
 addiction. Especially at a younger age, the type of person that one associates with can make a big
 difference. Associating with peers that are at risk of drug addiction or already abuse drugs
 greatly increases the risk of drug abuse by an individual [^6]. While fraternizing with peers that
 are responsible and well-behaved reduces that risk. On a similar note, frequently participating in
-social events places youths at greater risk of abuse as well. By attending social events often they
-are more likely to attend an event that involves the use of drugs. Attending social events that do
-not involve drug use tends to reduce the risk of drug addiction. On the other hand, lack of social
-participation can also put an individual at risk as antisocial behavior can lead to mental illness or
-overall loneliness [^4]. Clearly, it is important for adolescents to socialize but they must choose
-their friends wisely to keep their risk of drug addiction low. Surely, mental illness and loneliness
-can lead to a search for self-medication [^8] that often leads to drug abuse.
+social events places youths at greater risk of abuse as well. By attending social events often they are more likely to attend an event that involves the use of drugs. Attending social events that do not involve drug use tends to reduce the risk of drug addiction. On the other hand, lack of social participation can also put an individual at risk as antisocial behavior can lead to mental illness or overall loneliness [^4]. Clearly, it is important for adolescents to socialize but they must choose their friends wisely to keep their risk of drug addiction low. Surely, mental illness and loneliness can lead to a search for self-medication [^8] that often leads to drug abuse.
 ### School
 Academic competence is also important in preventing drug use. It is important for schools to take
 notice of struggling students to prevent academic incompetence. By observing and addressing
@@ -115,7 +97,7 @@ and provide a child with more emotional and academic resources. Schools can also
 by enforcing anti-drug policies and programs. Altogether, schools can greatly contribute to the
 protective factors of children and further reduce their risk of drug addiction at the present and
 later in life.
-###Community
+### Community
 The community in which an individual resides is also critical, especially when children are
 maturing and learning social norms. By having other responsible adults around, besides the
 parents, the support system of an individual grows. A community that is safe and sustained with
@@ -128,12 +110,12 @@ community in order to assess any risk within it and address those risks with cor
 protective factors and preventative services. In the end, the presence of strong community
 leaders and community structure is worthwhile as it significantly reduces the risk of drug
 addiction in adults and children alike.
-##Conclusion
+## Conclusion
 Altogether, protective factors are incredibly important for preventing addiction in both children
 and adults. They fall into the five domains of individual, family, peer, school, and community.
 The protective factors in a supportive environment are key to counteracting the risk factors that
 are present in order to prevent any drug addictions from developing.
-##References
+## References
 [^1]: Center on Addiction. \(2017, April 14\). Who develops addiction. Retrieved November 2,
 2019, from https://www.centeronaddiction.org/addiction/addiction-risk-factors.
 [^2]: Difference between abuse and addiction. \(n.d.\). Retrieved October 28, 2019, from
