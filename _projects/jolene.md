@@ -2,8 +2,7 @@
 published: true
 title: The Impact of Opium on the Environment
 ---
-
-The Impact of Opium on the Environment
+## The Impact of Opium on the Environment
 The most known thing about drugs and what most people talk about, is how they affect the brain. One thing that is also important, but not discussed as much is how drugs impact the environment. Such as, how opium can have an effect on the brain in multiple ways but, how it influences the environment is not as well known. 
 
 ## What opium is
