@@ -1,3 +1,7 @@
+---
+published: true
+title: Untitled
+---
 Title: ”Protective Factors of Addiction”
 Contributors:
 - Name: Rileigh Wilson
