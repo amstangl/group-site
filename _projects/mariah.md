@@ -1,6 +1,9 @@
 ---
 published: true
 title: 'The Illegal Drug Trade into America: The War on Drugs'
+Contributors:
+-name: Mariah Thesing
+-bio: A student working with fellow students at the University of Minnesota Morris, writing for the Psychology: Drugged Society course.
 ---
 
 excerpt: Information, statistics, and an inside look at the illegal drug trade and the War on Drugs in the United States. What drugs, where the drugs are grown, transported and distributed, the inner jobs of the drug trade, and what the government is doing to work against the illegal drug trade.
