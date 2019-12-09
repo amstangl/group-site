@@ -44,7 +44,8 @@ outbursts; behaving recklessly or in a self-destructive way; being easily startl
 having problems concentrating or sleeping. [^4]
 ![Image of a PTSD calligram](https://upload.wikimedia.org/wikipedia/commons/c/cd/PTSD.png)
 
-## How Does PTSD Relate to Substance Abuse\?
+## How Does PTSD Relate to Substance Abuse?
+
 >**“52 percent of males and 28 percent of females with PTSD meet the 
 >lifetime criteria for alcohol abuse or dependence”**
 
@@ -56,7 +57,9 @@ according to findings on posttraumatic stress disorder in the National Comorbidi
 published in 1995 in the Archives of General Psychiatry \(Kessler et al.\). When it comes to drug 
 abuse, statistics from the same study show that 35 percent of men and 27 percent of women with 
 PTSD meet the criteria.”[^5]
+
 ## Why Are People With PTSD More Susceptible to Substance Abuse?
+
 >**“The use of alcohol to numb PTSD symptoms leads to a vicious cycle. 
 >Drinking alcohol worsens the fear and anxiety of PTSD, which leads to a 
 >release of endorphins.”**[^6]
@@ -102,7 +105,7 @@ thing, and there are many places to find help.
 
 ![Image of the precursors for PTSD and how others can help](https://www.michaelshouse.com/wp-content/uploads/2016/04/trauma-in-students.png)
 
-## Where Can People With PTSD Find Treatment\?
+## Where Can People With PTSD Find Treatment?
 There are many types of ways people can get treatment for PTSD. According to the Mayo Clinic, 
 there are many types of psychotherapy options that are available. Psychotherapy is also 
 characterized as a talking therapy. These types of therapies include:
@@ -121,8 +124,7 @@ memories and change how you react to them.”[^8]
 
 Other types of treatments that the Mayo Clinic stated was prescribed medications. These 
 medications include:
-1.   **“Antidepressants:** These medications can help symptoms of depression and anxiety. They can also help improve sleep problems and concentration. The selective serotonin reuptake inhibitor \(SSRI\) medications sertraline \(Zoloft\) and paroxetine (Paxil) are approved by the Food and Drug Administration \(FDA\) for PTSD treatment.”
-[^8]
+1.   **“Antidepressants:** These medications can help symptoms of depression and anxiety. They can also help improve sleep problems and concentration. The selective serotonin reuptake inhibitor \(SSRI\) medications sertraline \(Zoloft\) and paroxetine (Paxil) are approved by the Food and Drug Administration \(FDA\) for PTSD treatment.” [^8]
 2.   **“Anti-anxiety medications:** These drugs can relieve severe anxiety and related problems. Some anti-anxiety medications have the potential for abuse, so they are generally used only for a short time.”[^8]
 
 
