@@ -3,7 +3,7 @@ published: true
 title: PTSD and Its Influence on Substance Abuse
 ---
 ## PTSD and Its Influence on Substance Abuse
-## What Is PTSD\?
+## What Is PTSD?
 Posttraumatic stress disorder \(PTSD\) is a psychiatric disorder that is induced by a traumatic 
 event. These traumatic occurrences can include:
 1.   **Military Combat:** veterans who have been to war
@@ -17,12 +17,12 @@ event. These traumatic occurrences can include:
 h_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial
 _in_1982.jpg/512px-World_War_I_veteran_Joseph_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial_in_1982.jpg)
 
-## Who Can Have PTSD\?
+## Who Can Have PTSD?
 The frightening thing about PTSD is that it can happen to anyone no matter their age or gender.  
 According to the National Institute of Mental Health, 7 or 8 out of every 100 people will 
 experience PTSD at some point in their lives. Women are more likely to develop PTSD than 
 men, and genes may make some people more likely to develop PTSD than others.[^2]
-## Why is PTSD Such a Serious Thing\?
+## Why is PTSD Such a Serious Thing?
 Post-traumatic stress disorder symptoms may start within one month of a traumatic event, but 
 sometimes symptoms may not appear until years after the event. These symptoms cause many 
 problems in friendships, intimate relationships, or work situations. They can also interfere with 
