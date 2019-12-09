@@ -1,8 +1,12 @@
+---
+published: true
+title: 'The Illegal Drug Trade into America: The War on Drugs'
+---
 title: “The Illegal Drug Trade into America: The War on Drugs”
 excerpt: Information, statistics, and an inside look at the illegal drug trade and the War on Drugs in the United States. What drugs, where the drugs are grown, transported and distributed, the inner jobs of the drug trade, and what the government is doing to work against the illegal drug trade.
 Contributors:
--	name: Mariah Thesing
-bio: A student working with fellow students at the University of Minnesota Morris, writing for the Psychology: Drugged Society course.
+-name: Mariah Thesing
+-bio: A student working with fellow students at the University of Minnesota Morris, writing for the Psychology: Drugged Society course.
 
 # The Illegal Drug Trade into America: The War on Drugs
 
@@ -16,13 +20,13 @@ The four main substances of the illegal drug trade are cocaine, methamphetamine,
 
 Cocaine, methamphetamine, heroin and marijuana are essentially going everywhere around the globe. The United States is, however, the largest consumer market with a large demand for these illegal substances. [^1] In the United States, Phoenix, Arizona is one of the wholesale capitals of America; Phoenix being the starting line for drugs into the rest of America. [^3] On the other side of America, New York is considered the cocaine capital. [^2] A large sum of the illegal drugs are transported from Mexico across the border into the United States. Mexico produces about 9% of the heroin supply that is trafficked into the United States. [^1] Most of the product made, however, is not from Mexico, but from Columbia. Over half of the cocaine production comes from Columbia, where poor farmers harvest the coca leaves. [^3] Along with drugs, violence broke out in Columbia, and consequently for America, trafficking and violence shifted from Colombia into Mexico. [^1] Cartels and organizations are also now moving, but instead are going into Central America to take advantage of the weaker states to run cartel drug businesses; the process is also known as the balloon effect. [^1] All in all, Mexico and Columbia are the main regions that bring cocaine, methamphetamine, heroin and marijuana into America by illegal drug trafficking.
 
-![Drug Trafficking Routes from South to North America.]( https://upload.wikimedia.org/wikipedia/commons/6/6b/Air_and_Maritime_Drug_Trafficking_Routes_from_South_to_North_America-ar.png “Drug Trafficking Routes”)
+![Drug Trafficking Routes from South to North America.](https://upload.wikimedia.org/wikipedia/commons/6/6b/Air_and_Maritime_Drug_Trafficking_Routes_from_South_to_North_America-ar.png “Drug Trafficking Routes”)
 
 ## The interworking’s of the drug trade
 
 Illegal drug cartels are large organizations that require a lot of people in order to work efficiently. Every position in the illegal drug trade is essentially important, from the drug lords and bosses like Pablo Escobar to the small street dealers and users. In different areas, crew bosses run towns and cities with their own crews of 8\-10 men. Each crew runs a different element of the supply chain such as transportation, distribution, money laundering, and security. [^3] Transportation consists of different positions such as cartel mules, footmen, packers, and ground support. Cartel mules drive different vehicles carrying drugs or weapons from one area to another. Footmen and packers transport and smuggle drugs by foot through remote areas across the border, carrying drugs and supplies in tightly wrapped packages on their backs. Ground support are the people who pick up the footmen and packers at the established pick-up areas while supplying them with enough food, water, and other supplies needed or wanted. Other positions in the drug cartel with distribution are the dealers that break up drugs into individual packaging and the foot soldiers who deal directly to the streets. The cartels security have hitmen who enforce the laws of the drug cartel that find people who owe money and usually kill them if they do not pay back the debt owed. [^3] Finally, the largest part of the drug trade are the users; the ones who buy and use the illegal drugs distributed across the United States.
 
-![Pablo Escobar Mug Shot by the regional Colombia control agency in Medellín, 1977]( https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/418px-Pablo_Escobar_Mug.jpg “Pablo Escobar Mug Shot”)
+![Pablo Escobar Mug Shot by the regional Colombia control agency in Medellín, 1977](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/418px-Pablo_Escobar_Mug.jpg “Pablo Escobar Mug Shot”)
 
 ## What is being done?
 
