@@ -119,9 +119,9 @@ are present in order to prevent any drug addictions from developing.
 
 [^3]: Drug, alcohol addiction: What are the factors that play a role?. \(2019, May 20\). Retrieved October 29, 2019, from https://emeraldcoastjourneypure.com/drug-alcohol-addiction-factors/.
 
-[^4] Forum, A. P. \(n.d.\). Prevention. Retrieved November 19, 2019, from https://www.addictionpolicy.org/prevention.
+[^4]: Forum, A. P. \(n.d.\). Prevention. Retrieved November 19, 2019, from https://www.addictionpolicy.org/prevention.
 
-[^5] Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved November 2, 2019, from https://www.health.harvard.edu/newsletter_article/how-addiction-hijacks-the-brain.
+[^5]: Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved November 2, 2019, from https://www.health.harvard.edu/newsletter_article/how-addiction-hijacks-the-brain.
 
 [^6]: NIDA. \(2003, October 1\). Preventing drug use among children and adolescents (In brief). Retrieved October 30, 2019, from https://www.drugabuse.gov/publications/preventing-drug-abuse-among-children-adolescents/chapter-1-risk-factors-protective-factors/what-are-risk-factors.
 
