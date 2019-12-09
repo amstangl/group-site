@@ -6,7 +6,7 @@ overlay_image:
 teaser: 
 contributors:
   - name: Adrianna Johnson
-    bio: University of Minnesota Morris, Freshman, PrePhysical Therapy Major
+    bio: is a freshman at the University of Minnesota Morris and is Pre-Physical Therapy Major.
     image: /assets/images/profile.png
   
 ---
