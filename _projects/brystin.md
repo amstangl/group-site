@@ -12,9 +12,11 @@ event. These traumatic occurrences can include:
 4.   **Acts of terrorism:** mass shootings, war,  and bombings
 5.   **Assault during childhood or as an adult:** sexual or physical 
 6.   **Death:** unexpected death of a loved one[^1]
+
 ![Image of a veteran holding a flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/World_War_I_veteran_Josep
 h_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial
 _in_1982.jpg/512px-World_War_I_veteran_Joseph_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial_in_1982.jpg)
+
 ## Who Can Have PTSD\?
 The frightening thing about PTSD is that it can happen to anyone no matter their age or gender.  
 According to the National Institute of Mental Health, 7 or 8 out of every 100 people will 
