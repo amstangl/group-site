@@ -133,7 +133,7 @@ medications include:
 
 [^6]:Berry, Jennifer. “Endorphins: Effects and How to Boost Them.” Medical News Today, MediLexicon International, 6 Feb. 2018, www.medicalnewstoday.com/articles/320839.php#what-are-endorphins
 
-[^7]:Volpicelli, Joseph, et al. “The Role of Uncontrollable Trauma in the Development of PTSD and Alcohol Addiction.” National Institute on Alcohol Abuse and Alcoholism, vol. 23, no. 4, 1999, pubs.niaaa.nih.gov/publications/arh23-4/256-262.pdf
+[^7]:Volpicelli, Joseph, et al. "The Role of Uncontrollable Trauma in the Development of PTSD and Alcohol Addiction." National Institute on Alcohol Abuse and Alcoholism, vol. 23, no. 4, 1999, pubs.niaaa.nih.gov/publications/arh23-4/256-262.pdf
 
 [^8]:Mayo Clinic Staff. “Post-Traumatic Stress Disorder \(PTSD\).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 6 July 2018, www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973
 
