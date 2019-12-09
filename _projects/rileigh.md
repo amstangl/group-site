@@ -73,10 +73,7 @@ that even further reduce the risk of drug addiction.
  There are numerous protective factors that originate in the family as well. A strong bond
 between children and their parents significantly decreases the risk of drug addiction. It is crucial for parents to take advantage of the protective factors that are possible within a family. Parents must be involved in their child’s life in order to enforce clear limits and consistently discipline their children[^6]. Another important role of parents is the prevention of trauma, childhood trauma dramatically increases the risk of drug addiction. Sheltering children from harmful experiences like sexual or verbal abuse is crucial as far as protective factors go. And as expected,it is much easier for a parent to monitor their child’s behavior and watch for the warning signs of substance abuse when they have a strong bond and a trusting relationship.
 
-![The effect of childhood sexual abuse on drug dependency and psychiatric disorders in adult
-women.](https://commons.wikimedia.org/wiki/File:NIH_child_sex_abuse_disorders_graph.gif#/
-media/File:NIH_child_sex_abuse_disorders_graph.gif “Childhood sexual abuse with drug
-dependence and psychiatric disorders”)
+![The effect of childhood sexual abuse on drug dependency and psychiatric disorders in adult women.}(https://commons.wikimedia.org/wiki/File:NIH_child_sex_abuse_disorders_graph.gif#/media/File:NIH_child_sex_abuse_disorders_graph.gif “Childhood sexual abuse with drug dependence and psychiatric disorders”)
 
 ### Peer
 Social involvement outside of the family can also have an effect on an individual's risk of drug
@@ -116,18 +113,15 @@ The protective factors in a supportive environment are key to counteracting the 
 are present in order to prevent any drug addictions from developing.
 
 ## References
-[^1]: Center on Addiction. \(2017, April 14\). Who develops addiction. Retrieved November 2,
-2019, from https://www.centeronaddiction.org/addiction/addiction-risk-factors.
+[^1]: Center on Addiction. \(2017, April 14\). Who develops addiction. Retrieved November 2, 2019, from https://www.centeronaddiction.org/addiction/addiction-risk-factors.
 
 [^2]: Difference between abuse and addiction. \(n.d.\). Retrieved October 28, 2019, from https://www.dualdiagnosis.org/drug-addiction/abuse-and-addiction/.
 
-[^3]: Drug, alcohol addiction: What are the factors that play a role?. \(2019, May 20\).
-Retrieved October 29, 2019, from https://emeraldcoastjourneypure.com/drug-alcohol-addiction-factors/.
+[^3]: Drug, alcohol addiction: What are the factors that play a role?. \(2019, May 20\). Retrieved October 29, 2019, from https://emeraldcoastjourneypure.com/drug-alcohol-addiction-factors/.
 
 [^4] Forum, A. P. \(n.d.\). Prevention. Retrieved November 19, 2019, from https://www.addictionpolicy.org/prevention.
 
-[^5] Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved November 2, 2019, from
-https://www.health.harvard.edu/newsletter_article/how-addiction-hijacks-the-brain.
+[^5] Harvard Health Publishing. \(2011, July\). How addiction hijacks the brain. Retrieved November 2, 2019, from https://www.health.harvard.edu/newsletter_article/how-addiction-hijacks-the-brain.
 
 [^6]: NIDA. \(2003, October 1\). Preventing drug use among children and adolescents (In brief). Retrieved October 30, 2019, from https://www.drugabuse.gov/publications/preventing-drug-abuse-among-children-adolescents/chapter-1-risk-factors-protective-factors/what-are-risk-factors.
 
