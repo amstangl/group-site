@@ -47,6 +47,7 @@ having problems concentrating or sleeping. [^4]
 ## How Does PTSD Relate to Substance Abuse\?
 >**“52 percent of males and 28 percent of females with PTSD meet the 
 >lifetime criteria for alcohol abuse or dependence”**
+
 The symptoms of PTSD can be very hard on your mental health. Because of this added stress on 
 ones’ life, many people with PTSD go to one thing to help them cope: addictive substances such 
 as alcohol or prescription pills. According to Dual Diagnosis. Org, “52 percent of males and 28 
@@ -59,6 +60,7 @@ PTSD meet the criteria.”[^5]
 >**“The use of alcohol to numb PTSD symptoms leads to a vicious cycle. 
 >Drinking alcohol worsens the fear and anxiety of PTSD, which leads to a 
 >release of endorphins.”**[^6]
+
 According to the article *The Role of Uncontrollable Trauma in the Development of PTSD and 
 Alcohol Addiction*, there is a constant cycle that revolves around traumatic events and substance 
 abuse. 
@@ -66,9 +68,11 @@ The first part of the cycle is when people have strong symptoms of anxiety, irri
 depression due to experiencing a traumatic event. People with PTSD then often report using 
 alcohol to relieve their symptoms. Alcohol may relieve these symptoms because drinking makes 
 up for a shortage in endorphin activity following a traumatic experience. 
+
 >**“Endorphins are chemicals produced naturally by the nervous system to 
 >cope with pain or stress. They are often called "feel-good" chemicals because 
 >they can act as a pain reliever and happiness booster.”**[^6]
+
 Only a few minutes after a traumatic event,  there is an increase in the level of endorphins in the 
 brain. During the time of the trauma, endorphin levels remain elevated and help numb the 
 emotional and physical pain of the trauma. However, after the trauma is over, endorphin levels 
@@ -79,8 +83,11 @@ increases endorphin activity, drinking following trauma may be used to compensat
 endorphin withdrawal and thus avoid the associated emotional distress. [^7]
 Then, the cycle 
 continues from low endorphin activity to normal endorphin activity due to alcohol consumption. 
+
 ## Real People Living With PTSD
- [Buzzfeed Video](https://www.youtube.com/watch?v=XfkmyKrQk-w)
+
+[Buzzfeed Video](https://www.youtube.com/watch?v=XfkmyKrQk-w)
+
 In this video, we can see the internal struggles people with PTSD face. To recap, PTSD can 
 happen to ANYONE. The video portrays this in a striking way, because the words that are being 
 said are from real people. These are the confessions of war veterans and everyday people like 
