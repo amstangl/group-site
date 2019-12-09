@@ -1,6 +1,8 @@
 ---
 published: true
 title: PTSD and Its Influence on Substance Abuse
+site_contributors:
+  - Brystin LaMont
 ---
 ## What Is PTSD?
 Posttraumatic stress disorder \(PTSD\) is a psychiatric disorder that is induced by a traumatic 
