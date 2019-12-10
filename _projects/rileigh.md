@@ -1,6 +1,14 @@
 ---
 published: true
-title: Protective Factors of Addiction
+title: "Protective Factors of Addiction"
+excerpt:
+overlay_image: 
+teaser: 
+contributors:
+  - name: Rileigh Wilson
+    bio: is a freshman at the University of Minnesota Morris and is Pre-Physical Therapy Major.
+    image: /assets/images/profile.png
+      
 ---
 ## Can anyone become addicted to drugs?
 Most professionals believe that the answer is yes [^1]. There are some drugs that are so addictive
