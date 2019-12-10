@@ -6,7 +6,7 @@ overlay_image:
 teaser: 
 contributors:
   - name: Mariah Thesing
-    bio: is a student working with fellow students at the University of Minnesota Morris, writing for the Psychology: Drugged Society course.
+    bio: is a student working with fellow students at the University of Minnesota Morris, writing for the Psychology Drugged Society course.
     image: /assets/images/profile.png
     
 ---
