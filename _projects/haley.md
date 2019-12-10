@@ -13,7 +13,7 @@ An article in *Journal of Affective Disorders* by Gomez-Coronado focuses on four
 ## Popular Statistics 
 *The National Survey on Drug Use and Health* [(NSDUH) is the primary source for statistical information on illegal drugs, alcohol use, substance use disorders, and mental health issues for the civilian noninstitutionalized population of the United States.](https://nsduhweb.rti.org/respweb/homepage.cfm). According to the NSDUH, “In 2017, the percentage of adolescents aged twelve to seventeen who used illicit drugs in the past year was higher among those with a past MDE than it was among those without a past year MDE.” [^2] MDE stands for major depressive episode. **29.3%** of people had a major depressive episode and used illegal drugs compared to **14.3%** of people who didn’t have a depressive order. The substance with the largest number of recent initiates of use were alcohol, marijuana, prescription pain relievers, and then cigarettes. Around **8.5 million** adults aged eighteen or older had both a mental, behavioral, and emotional disorder, and a substance disorder in the past year of 2017. Most of these patients who are suffering both of these symptoms don’t seek treatment. *Substance Abuse and Mental Health Services Administration* (SAMHSA) mentions that, “1 in 12 US adults had a substance use disorder in the past year whereas 1 in 5 adults had any mental illness, and as a total, 7.9 million adults had both.” 
 
-![An infographic image from a 2013 National Survey on Drug Use and Health](https://www.flickr.com/photos/samhsa/22389442948/)
+![An infographic image from a 2013 National Survey on Drug Use and Health](https://live.staticflickr.com/744/22389442948_ebd6f231ce.jpg)
 
 
 ## Developing a Mental Illness
