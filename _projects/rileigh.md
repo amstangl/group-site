@@ -54,7 +54,7 @@ protective factors into the lives of adolescents, their risk of drug addiction i
 significantly. If those around them can prevent substance abuse before the age of 18, it is much
 less likely that they will ever abuse drugs at all.
 
-![Cannabis consumption is widespread in adolescence.](https://commons.wikimedia.org/wiki/File:Cannabis-Use-during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg#/media/File:Cannabis-Use-during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg)
+![Cannabis consumption is widespread in adolescence.](https://upload.wikimedia.org/wikipedia/commons/2/26/Cannabis-Use-during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg)
 
 ### Individual
 As an individual, it is important for one to understand their own identity. Being conscious of
@@ -71,7 +71,7 @@ that even further reduce the risk of drug addiction.
  There are numerous protective factors that originate in the family as well. A strong bond
 between children and their parents significantly decreases the risk of drug addiction. It is crucial for parents to take advantage of the protective factors that are possible within a family. Parents must be involved in their child’s life in order to enforce clear limits and consistently discipline their children[^6]. Another important role of parents is the prevention of trauma, childhood trauma dramatically increases the risk of drug addiction. Sheltering children from harmful experiences like sexual or verbal abuse is crucial as far as protective factors go. And as expected,it is much easier for a parent to monitor their child’s behavior and watch for the warning signs of substance abuse when they have a strong bond and a trusting relationship.
 
-![The effect of childhood sexual abuse on drug dependency and psychiatric disorders in adult women.](https://commons.wikimedia.org/wiki/File:NIH_child_sex_abuse_disorders_graph.gif#/media/File:NIH_child_sex_abuse_disorders_graph.gif)
+![The effect of childhood sexual abuse on drug dependency and psychiatric disorders in adult women.](https://upload.wikimedia.org/wikipedia/commons/c/c6/NIH_child_sex_abuse_disorders_graph.gif)
 
 ### Peer
 Social involvement outside of the family can also have an effect on an individual's risk of drug
