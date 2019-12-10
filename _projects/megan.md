@@ -1,6 +1,13 @@
 ---
 published: true
-title: Factors in Drug Addiction
+title: "Factors in Drug Addiction"
+excerpt: 'This page is about how genetics and environmental and psychological factors play a critical role in how addiction is explained and understood.'
+overlay_image: 
+teaser: 
+contributors:
+  - name: Megan Saboo 
+    bio: is a college sophomore majoring in psychology with a minor in statistics.
+    image: /assets/images/profile.png
 ---
 ## Introduction
 Substance abuse is common among all people, all over the world. We see it in the rich, the poor, and all in between. As common as it is, substance abuse often leads to something quite life altering. [This is known as addiction](https://www.drugabuse.gov/related-topics/addiction-science). “Addictions are chronic relapsing psychiatric disorders characterized by the compulsive and dyscontrolled use of a drug or activity, with maladaptive and destructive outcomes” [^1]. However, this is not the only definition of addiction used by our society. Some view it is as a brain disease, while others view it as a failure of will or as a weakness of character. No matter which way you chose to define addiction, the truth is, is that it is hard and painful and not only for those who have it, but for the families and friends of those individuals as well. Overall, people tend to avoid the topic of addiction. Even though we see people of all statuses profiting off of drug sales more than ever; advertising companies, doctors, celebrities, drug dealers; the list goes on and on. So, even though drug abuse is not uncommon why is addiction, the most common result of drug use, rarely talked about? And why is it frowned upon by society? Well, because there’s a whole lot about it that many people don’t know, and it isn’t all that simple. [Addiction consists of many factors](https://www.khanacademy.org/science/health-and-medicine/mental-health/drug-abuse-and-drug-addictions/v/risk-factors-for-drug-use-and-drug-abuse); genetics, environment, and psychological traits are among the top three that play key roles in understanding the development of the substance abuse disorder and how at risk an individual may be for becoming addicted in the future.
