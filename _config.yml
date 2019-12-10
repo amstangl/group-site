@@ -13,11 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Drugged Society"
-#email: digitalscholarship@swarthmore.edu
+title: "Drugged Society: Humanity's Long-Term Relationship with Mind-Altering Substances"
 description: "Intellectual Community Class"
-#twitter_username: _nabilk
-#github_username: dh-in-the-classroom
 minimal_mistakes_skin: swatds
 search: true
 search_full_content: true
