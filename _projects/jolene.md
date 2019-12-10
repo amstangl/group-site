@@ -32,6 +32,7 @@ Although opium can be used for multiple things, the process of growing and harve
 The Editors of Encyclopaedia Britannica. (2018, December 21). Opium. Retrieved from https://www.britannica.com/science/opium. 
 
 McAlister, S., Ou, Y., Neff, E., Hapgood, K., Story, D., Mealey, P., & McGain, F. (2016, October 21). The Environmental footprint of morphine: a life cycle assessment from opium poppy farming to the packaged drug. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5093647/. 
+
 Courtwright, D. T. (2001) Forces of Habit: Drugs and the Making of The Modern World. Cambridge, Mass: Harvard University Press.
 
 U.S Department of Justice, Drug Enforcement Administration, Office of Intelligence. (September 1992) Opium Poppy Cultivation and Heroin Processing in Southeast Asia. Retrieved from https://www.ncjrs.gov/pdffiles1/Digitization/141189NCJRS.pdf.
