@@ -1,6 +1,13 @@
 ---
 published: true
-title: Non-Prescription Drugs & Mental Illnesses
+title: "Non-Prescription Drugs & Mental Illnesses"
+excerpt: 'This page is about a connection between non-prescription drugs and mental illnesses.'
+overlay_image: 
+teaser: 
+contributors:
+  - name: Haley Wollschlager
+    bio:  is a student at the University of Minnesota, Morris. Here I am involved in the women’s basketball and softball program.
+    image: /assets/images/profile.png
 ---
 This page is about a connection between non-prescription drugs and mental illnesses
  
