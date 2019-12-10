@@ -53,11 +53,9 @@ are highly susceptible to a range of influences, both good and bad. By incorpora
 protective factors into the lives of adolescents, their risk of drug addiction is lowered
 significantly. If those around them can prevent substance abuse before the age of 18, it is much
 less likely that they will ever abuse drugs at all.
-![Cannabis consumption is widespread in
-adolescence.](https://commons.wikimedia.org/wiki/File:Cannabis-Use-during-Adolescent-Devel
-opment-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg#/media/File:Cannabis-Use
--during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg
-“Drug use in adolescence”)
+
+![Cannabis consumption is widespread in adolescence.](https://commons.wikimedia.org/wiki/File:Cannabis-Use-during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg#/media/File:Cannabis-Use-during-Adolescent-Development-Susceptibility-to-Psychiatric-Illness-fpsyt-04-00129-g001.jpg "Drug use in adolescence")
+
 ### Individual
 As an individual, it is important for one to understand their own identity. Being conscious of
 their own family history can protect an individual from addiction. By knowing about their
