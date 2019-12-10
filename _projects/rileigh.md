@@ -6,7 +6,7 @@ overlay_image:
 teaser: 
 contributors:
   - name: Rileigh Wilson
-    bio: is a freshman at the University of Minnesota Morris and is Pre-Physical Therapy Major.
+    bio: 
     image: /assets/images/profile.png
       
 ---
